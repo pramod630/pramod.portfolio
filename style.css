@@ -661,6 +661,11 @@ form .btn3{
   .about-col-1{
     margin-bottom: 30px;
   }
+    .sidebar nav li {
+    list-style: none;
+    font-size: 20px;
+    padding: 9px 0;
+}
 
 }
     
